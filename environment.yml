@@ -15,4 +15,3 @@ dependencies:
   - stdpopsim
   - rpy2
   - ipython
-  - json
